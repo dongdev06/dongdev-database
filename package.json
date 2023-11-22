@@ -1,0 +1,63 @@
+{
+  "_from": "dongdev-database@latest",
+  "_id": "dongdev-database@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-PjYJof9UGlJXTHYH2nQ7Vqz8raxDXdBw9/PFPW5jJwMvruoRaqbYkYPx2Zjd/XKrvpkGWC/UXNQkMQsq2if2Eg==",
+  "_location": "/dongdev-database",
+  "_phantomChildren": {
+    "@mapbox/node-pre-gyp": "1.0.9",
+    "node-addon-api": "4.3.0",
+    "node-gyp": "8.4.1",
+    "tar": "6.1.11"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "dongdev-database@latest",
+    "name": "dongdev-database",
+    "escapedName": "dongdev-database",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "/fca-project-dongdev"
+  ],
+  "_resolved": "https://registry.npmjs.org/dongdev-database/-/dongdev-database-1.0.0.tgz",
+  "_shasum": "480d0f5a3364bd910ddc4393401344fbe2040bef",
+  "_spec": "rqzax-database@latest",
+  "_where": "/home/runner/Date-with-you/node_modules/fca-project-dongdev",
+  "author": {
+    "name": "KanzuWakazaki"
+  },
+  "bugs": {
+    "url": "https://github.com/domgdev06/Dongdev-Database/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "better-sqlite3": "7.4.5",
+    "lodash": "latest",
+    "node-fetch": "2.6.0",
+    "sqlite": "4.0.21",
+    "sqlite3": "5.0.3"
+  },
+  "deprecated": false,
+  "description": "Database tổng hợp ngắn gọn cho fca-project-dongdev",
+  "homepage": "https://github.com/domgdev06/Dongdev-Database#readme",
+  "keywords": [
+    "DongDev",
+    "Horizon",
+    "Database"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "dongdev-database",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domgdev06/Dongdev-Database.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
